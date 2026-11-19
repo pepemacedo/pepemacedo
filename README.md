@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Pedro Macedo
 
-🎯 **QA Júnior em formação** | Testes manuais, automação com Cypress e validação de dados com SQL
-🏥 Venho de suporte e implantação de ERP (fiscal e farmácias de manipulação) e estou migrando para qualidade de software
-🌎 Inglês profissional | Brasil 🇧🇷 | Aberto a oportunidades no Brasil e na Europa
+🎯 **QA Júnior em formação** | Testes manuais, automação com Cypress e validação de dados com SQL  
+🏥 Venho de suporte e implantação de ERP (fiscal e farmácias de manipulação) e estou migrando para qualidade de software  
+🌎 Inglês profissional | Brasil 🇧🇷 | Aberto a oportunidades no Brasil e na Europa  
 
 ---
 
